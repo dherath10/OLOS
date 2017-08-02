@@ -1,0 +1,63 @@
+
+body{
+    margin: 0px;
+}
+
+div#maindiv{width:100%;}
+div#headerdiv{
+    height: 75px;
+    background-color: #0559AF;
+    
+}
+div#sessiondiv{
+    height: 50px;
+    
+}
+div#navidiv{
+    height: 50px;
+    
+}
+div#contentdiv{
+    min-height: 300px;
+    
+}
+div#footerdiv{
+    height: 50px;
+    
+}
+.webbanner{
+    text-align: center;
+    color:rgb(255,255,255);
+    font-size: 36px;
+    padding-top: 10px;
+    font-weight: bold;
+    
+}
+
+.ci{text-align: center; font-style: italic}
+
+.al{
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 10px;
+    
+}
+.dash{
+    text-align: center;
+    font-size: 36px;
+    text-transform: capitalize;
+    
+}
+#msg{
+    text-align: center; color: red; margin-bottom: 10px;
+    
+}
+div span{color:red}
+
+.ali{text-align: center}
+
+
+
+
+
+
